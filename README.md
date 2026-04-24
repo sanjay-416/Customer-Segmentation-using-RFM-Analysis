@@ -67,4 +67,4 @@ dashboards/ → dashboard screenshots
 
 ## 👤 Author
 **Sanjay Reddy Challa**  
-- LinkedIn: https://www.linkedin.com/in/sanjay-reddy-challa-312987245/
+🔗 [LinkedIn](https://www.linkedin.com/in/sanjay-reddy-challa-312987245/)
