@@ -27,7 +27,7 @@ Businesses need to identify valuable customers to improve retention and marketin
 
 ## 📊 Dashboard Preview
 
-![RFM Dashboard](dashboards/rfm_dashboard.png)
+![RFM Dashboard](Dashboards/Tableau_Dashboard_RFM.png)
 
 ---
 
